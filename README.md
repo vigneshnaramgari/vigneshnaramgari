@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML-Focused Computer Science Student | Full-Stack MERN Developer | AWS Cloud Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vigneshnaramgari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -65,15 +65,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshnaramgari&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshnaramgari&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Add Your Link]
+- 💼 LinkedIn: https://www.linkedin.com/in/vignesh-naramgari-205177291
 - 📧 Email: nsaivignesh2005@gmail.com
 
 ---
