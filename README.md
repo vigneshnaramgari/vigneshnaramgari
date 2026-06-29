@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vignesh Naramgari</h1>
+<h1 align="center">Hi, I'm Vignesh Naramgari</h1>
 <h3 align="center">AI/ML-Focused Computer Science Student | Full-Stack MERN Developer | AWS Cloud Learner</h3>
 
 
